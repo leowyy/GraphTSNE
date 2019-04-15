@@ -1,0 +1,17 @@
+name: graph_tsne
+
+channels:
+  - pytorch
+
+dependencies:
+  - python=3.6
+  - numpy
+  - mkl
+  - ipython
+  - jupyter
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - networkx
+  - pytorch=0.4.1
+  - bokeh
